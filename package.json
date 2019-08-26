@@ -1,0 +1,13 @@
+{
+  "name": "modbus-simulator",
+  "version": "0.0.1",
+  "description": "Modbus Simulator",
+  "main": "index.js",
+  "repository": "http://github.com/pdrappo/modbus-tcp-simulator.git",
+  "keywords": [ "modbus", "simulator", "tcp", "fake", "generator" ],
+  "author": "Pablo Drappo <contacto@webtoken.com.ar>",
+  "license": "MIT",
+  "dependencies": {
+    "modbus-tcp": "^0.4.13"
+  }
+}
